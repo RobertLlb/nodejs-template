@@ -1,33 +1,33 @@
-# Node.js Template
+# Node.js TEMPLATE
 
-Este é um template básico para aplicações Node.js com Express.
+Este Ã© um template basico para Node.js
 
-## ?? Estrutura
+## ESTRUTURA
 
-\\\
-/src
-  +-- /controllers
-   /routes
-   /models
-   /middlewares
-   /services
-   /config
- .gitignore
--- package.json
-+-- README.md
-+-- server.js
-\\\
+```bash
+  /src
+    +-- /controllers
+    /routes
+    /models
+    /middlewares
+    /services
+    /config
+  .gitignore
+  -- package.json
+  +-- README.md
+  +-- server.js
+```
 
-## ?? Como usar
+## COMO USAR?
 
-1?? Instale as dependências:
-\\\sh
-npm install express
-\\\
+1. Instale as dependencias:
+```bash
+  npm install express
+```
 
-2 Inicie o servidor:
-\\\sh
-npm start
-\\\
+2. Inicie o servidor:
+```bash
+  npm start
+```
 
-A API rodará em \http://localhost:3000\.
+A API rodar em \http://localhost:3000\.

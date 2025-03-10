@@ -4,7 +4,7 @@ import degit from "degit";
 import chalk from "chalk";
 import prompts from "prompts";
 
-const TEMPLATE_REPO = "seu-usuario/nodejs-template"; // Substitua pelo seu repositório no GitHub
+const TEMPLATE_REPO = "RobertLlb/nodejs-template"; // Substitua pelo seu repositório no GitHub
 
 (async () => {
     console.log(chalk.green("🚀 Criador de Projetos Node.js 🚀\n"));
